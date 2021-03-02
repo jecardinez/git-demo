@@ -2,8 +2,6 @@
 
 This is the first file in this repo.
 
-##Ipsum Below
+##Website Contents
 
-John Elbert Cardinez is learning git commands
-
-Shortcuts here...
+1. index.html
